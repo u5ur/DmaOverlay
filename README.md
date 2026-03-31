@@ -1,0 +1,1 @@
+A simple process that uses DX11 to create a render target, which we render into using ImGui. We then use DMA to write the rendered output directly into the Discord Legacy Framebuffer. Key states and mouse positions are also tracked for full ImGui interaction.
